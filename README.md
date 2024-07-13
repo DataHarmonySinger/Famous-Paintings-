@@ -1,4 +1,4 @@
-# Famous-Paintings- Famous Paintings SQL Analysis
+Famous Paintings SQL Analysis
 Introduction
 Welcome to the Famous Paintings SQL Analysis project! This repository contains an engaging dataset of famous paintings and their artists, ideal for learning and improving SQL skills. Through this project, you can delve into the fascinating world of art and uncover insights using SQL queries.
 
